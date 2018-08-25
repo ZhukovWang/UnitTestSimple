@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Zhukov/development/Cplus/UnitTestSimple/src/func.cpp
+
+/Users/Zhukov/development/Cplus/UnitTestSimple/src/main.cpp
+iostream
+-
+

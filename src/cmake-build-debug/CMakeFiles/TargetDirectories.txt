@@ -1,0 +1,3 @@
+/Users/Zhukov/development/Cplus/UnitTestSimple/src/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/Zhukov/development/Cplus/UnitTestSimple/src/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/Zhukov/development/Cplus/UnitTestSimple/src/cmake-build-debug/CMakeFiles/UnitTestSimple.dir
